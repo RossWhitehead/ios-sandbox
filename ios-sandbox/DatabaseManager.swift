@@ -11,9 +11,9 @@ import CouchbaseLiteSwift
 
 class DatabaseManager {
     private let dbName = "db"
-    private let urlString = "ws://10.147.18.46:4984/db"
-    private let username = "admin123"
-    private let password = "M!cr0s0ft123"
+    private let urlString = "*****"
+    private let username = "*****"
+    private let password = "*****"
     
     var db:Database?
     private var replicator:Replicator?
